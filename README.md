@@ -18,6 +18,7 @@ Profit comparison with the previous month
 
 Impact of discounts on overall sales
 
+
 🛠 Tools Used:
 
 Power BI
