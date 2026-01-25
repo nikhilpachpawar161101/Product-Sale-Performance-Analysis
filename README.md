@@ -1,4 +1,6 @@
 # 📦 Amazon Product Sales Performance Analysis – Power BI
+---
+
 ## 📊 Amazon Product Sales Performance Dashboard (Power BI)  
 An end-to-end data analysis and visualization project built using Power BI, focused on analyzing Amazon product sales performance. This dashboard transforms raw sales data into meaningful business insights to help stakeholders understand sales trends, profitability, customer demand, and regional performance.
 
